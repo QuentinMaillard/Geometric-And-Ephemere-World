@@ -12,6 +12,6 @@ You can shape you prism by clicking and mooving the mouse at the same time.
 
  - HTML 5
  - CSS 3
- - JS (canvas)
+ - JS (canvas) object oriented
 
 
